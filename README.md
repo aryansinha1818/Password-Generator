@@ -7,7 +7,7 @@ This is a simple and customizable Random Password Generator built using HTML, CS
 
 ## Live Demo
 
-[[https://github.com/aryansinha1818/SundownStudioClone/settings/pages](https://aryansinha1818.github.io/SundownStudioClone/)](https://aryansinha1818.github.io/Password-Generator/)
+(https://aryansinha1818.github.io/Password-Generator/)
 
 ✨ **Features Implemented**:
 * Adjustable Password Length: You can choose the length of the password, ranging from 2 to 30 characters.
