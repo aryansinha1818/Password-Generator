@@ -2,9 +2,12 @@
 
 This is a simple and customizable Random Password Generator built using HTML, CSS, and JavaScript. You can specify the length of the password and choose whether it contains uppercase letters, lowercase letters, numbers, and symbols.
 
+![image](https://github.com/user-attachments/assets/54ec6e88-7991-44dc-b2d6-fb02f7501d29)
+![image](https://github.com/user-attachments/assets/1d043dfa-c333-4271-b7f7-df9a6bece042)
+
 ## Live Demo
 
-[https://github.com/aryansinha1818/SundownStudioClone/settings/pages](https://aryansinha1818.github.io/SundownStudioClone/)
+[[https://github.com/aryansinha1818/SundownStudioClone/settings/pages](https://aryansinha1818.github.io/SundownStudioClone/)](https://aryansinha1818.github.io/Password-Generator/)
 
 ✨ **Features Implemented**:
 * Adjustable Password Length: You can choose the length of the password, ranging from 2 to 30 characters.
